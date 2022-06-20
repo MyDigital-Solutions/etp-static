@@ -79,6 +79,10 @@ a:hover{
   background-color: #3A4BAC;
 }
 
+.btn-primary{
+  background-color: #3A4BAC;
+}
+
 /*-------Individual Design-------  */
 
 .product-img{
@@ -86,4 +90,9 @@ a:hover{
   height: auto;
   max-width: 500px;
   min-width: 200px;
+}
+
+.video-player{
+  width: 100%;
+  max-width: 50rem;
 }
